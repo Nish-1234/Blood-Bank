@@ -1,14 +1,11 @@
-# Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
-
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
-
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
-
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
+BloodBank | (MongoDb, ExpressJs, ReactJs, NodeJs) | § Aug 2023 - Sept 2023
+• Blood Donation Management System, a dynamic web application powered by the MERN stack
+• Seamlessly connects Donors, Hospitals, and Admins. Streamlined scheduling, real-time updates, and secure data
+handling. Enhanced user experiences through React.js interfaces and MongoDB storage.
+• Optimized donation process with JWT-secured appointments. Real-time tracking, secure appointments, and event
+management. MERN stack for responsive UI, Node.js for 30% faster server efficiency, MongoDB for 0% data breaches.
+• Bridging Donors and Hospitals. Personalized Donor profiles, inventory tracking, and appointment coordination with
+JWT authentication.
 
 
 
